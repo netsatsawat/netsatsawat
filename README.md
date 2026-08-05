@@ -26,7 +26,7 @@ enterprise AI teardown a month.
 - [tsfm-bakeoff](https://github.com/netsatsawat/tsfm-bakeoff): 13 time-series
   foundation models against classical baselines, in four isolated
   environments
-- [markov_and_hidden_markov_model](https://github.com/netsatsawat/markov_and_hidden_markov_model):
+- [markov-and-hmm](https://github.com/netsatsawat/markov-and-hmm):
   one matrix prices a loan book, rates an AI agent, and values a customer;
   five beginner-friendly notebooks
 - [fft-seasonality](https://github.com/netsatsawat/fft-seasonality): build the
