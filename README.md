@@ -23,11 +23,14 @@ enterprise AI teardown a month.
 - [agent-failure-lab](https://github.com/netsatsawat/agent-failure-lab): watch
   compound error kill your AI agent, then watch the mitigations save it ·
   [live calculator](https://netsatsawat.github.io/agent-failure-lab/)
-- [HR-Analytics](https://github.com/netsatsawat/HR-Analytics): predicting
-  employee attrition with ML
-- [fraud-detection-using-aws-cloud](https://github.com/netsatsawat/fraud-detection-using-aws-cloud):
-  fraud detection patterns on AWS
-- [tutorial_fft_seasonality_detection](https://github.com/netsatsawat/tutorial_fft_seasonality_detection):
-  detecting seasonality with FFT
+- [tsfm-bakeoff](https://github.com/netsatsawat/tsfm-bakeoff): 13 time-series
+  foundation models against classical baselines, in four isolated
+  environments
+- [markov_and_hidden_markov_model](https://github.com/netsatsawat/markov_and_hidden_markov_model):
+  one matrix prices a loan book, rates an AI agent, and values a customer;
+  five beginner-friendly notebooks
+- [fft-seasonality](https://github.com/netsatsawat/fft-seasonality): build the
+  FFT by hand, prove it on the Keeling curve, then turn hourly demand into
+  a staffing baseline and an anomaly alarm
 
 📫 hello@satsawat.ai · [LinkedIn](https://www.linkedin.com/in/satsawat/)
