@@ -20,6 +20,12 @@ enterprise AI teardown a month.
 
 ## 🔧 Selected work
 
+- [agent-report-card](https://github.com/netsatsawat/agent-report-card): a
+  performance review for your RAG bot. One CLI, one YAML test file, one
+  markdown verdict a stakeholder can read, with a local judge that reports
+  its own error rate inside every report ·
+  `pip install agent-report-card` ·
+  [PyPI](https://pypi.org/project/agent-report-card/)
 - [agent-failure-lab](https://github.com/netsatsawat/agent-failure-lab): watch
   compound error kill your AI agent, then watch the mitigations save it ·
   [live calculator](https://netsatsawat.github.io/agent-failure-lab/)
