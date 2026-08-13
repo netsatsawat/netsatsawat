@@ -20,6 +20,11 @@ enterprise AI teardown a month.
 
 ## 🔧 Selected work
 
+- [sovereign-rag](https://github.com/netsatsawat/sovereign-rag): a paired,
+  fully self-hosted RAG evaluation — BM25 vs dense vs GraphRAG across six
+  corpora and five languages, closed-book contamination floors, and the
+  escape-hatch ablation that moved one model forty points. Every number
+  recomputes from committed artifacts
 - [agent-report-card](https://github.com/netsatsawat/agent-report-card): a
   performance review for your RAG bot. One CLI, one YAML test file, one
   markdown verdict a stakeholder can read, with a local judge that reports
